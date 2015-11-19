@@ -1,8 +1,6 @@
 package aegisalt;
 
-//import tutorial.BlockTutorialBlock;
-//import tutorial.ItemTutorialItem;
-//import tutorial.Tutorial;
+
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.Mod.EventHandler;
 import cpw.mods.fml.common.event.FMLInitializationEvent;

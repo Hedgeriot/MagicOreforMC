@@ -11,6 +11,8 @@ import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
 import net.minecraft.util.IIcon;
 
+//This is an ore block that drops 4 Aegisalt Dusts and has the same properties of ore
+
 public class AegisaltOre extends Block {
 
     public AegisaltOre()
